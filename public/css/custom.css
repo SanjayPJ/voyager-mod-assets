@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+body{
+    font-size: 16px;
+}
+
+.btn, .paginate_button.active a, .voyager .panel.panel-warning .panel-heading, .voyager .panel.panel-info .panel-heading, .voyager .panel.panel-primary .panel-info, .alert.alert-info, .btn-sm, .voyager .modal.modal-danger .modal-header, .voyager .panel.panel-primary .panel-heading{
+    background-color: #605ca8 !important;
+    color: #fff;
+}
+
+.site-footer-right a{
+    color: #605ca8 !important;
+}
+
+.panel.widget .dimmer{
+	background: rgba(45,53,61,.5) !important;
+}
+
+.navbar-fixed-top{
+	background-color: #605ca84f !important;
+}
